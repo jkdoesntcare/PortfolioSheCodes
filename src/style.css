@@ -30,6 +30,20 @@ h1 {
     padding: 10px;
 }
 
+#aboutPage {
+    text-align: center;
+    background-color: white;
+  max-width: 900px;
+    padding: 10px;
+}
+
+#contactPage {
+    text-align: center;
+    background-color: white;
+  max-width: 900px;
+    padding: 10px;
+}
+
 #headshot {
     margin: 20px;
 }
