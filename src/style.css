@@ -1,11 +1,35 @@
 /* font-family: 'Poppins', sans-serif; -- primary */
 /* font-family: 'Playfair Display', serif; -- secondary */
 
+
+:root {
+    --main-color: #fcb8d4;
+    --secondary-color: #cf6290;
+    --main-font: 'Poppins', sans-serif;
+    --heading-font: 'Playfair Display', serif; 
+}
+
 body {
-    background-color: red;
     font-family: 'Poppins', sans-serif;
+    background-color: var(--main-color);
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
+}
+
+#contactMe {
+    margin: 35px;
+    text-align: left;
+}
+
+#aboutMe {
+    text-align: center;
+    background-color: white;
+  max-width: 900px;
+    padding: 10px;
+}
+
+#headshot {
+    margin: 20px;
 }
