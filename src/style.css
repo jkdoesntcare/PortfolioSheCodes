@@ -27,7 +27,7 @@ a {
 
 #contactMe {
     margin: 35px;
-    text-align: left;
+    text-align: center;
 }
 
 #aboutMe {
@@ -94,6 +94,13 @@ a {
   }
 
   #aboutButtons {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+  }
+
+  #contactButtons {
     display: flex;
     justify-content: center;
     flex-direction: row;
