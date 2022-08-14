@@ -130,5 +130,8 @@ a {
     color: var(--secondary-color);
   }
 
+  #pictures {
+    margin-top: 100px;
+  }
 
   
