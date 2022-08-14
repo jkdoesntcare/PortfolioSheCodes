@@ -48,6 +48,16 @@ a {
     margin-left: 150px;
 }
 
+#projectsPage {
+  text-align: center;
+  background-color: white;
+  max-width: 900px;
+  padding: 10px;
+  margin-top: 300px;
+  margin-left: 500px;
+  padding: 60px;
+}
+
 #contactPage {
     text-align: center;
     background-color: white;
@@ -95,3 +105,5 @@ a {
     margin: 20px;
     color: #fff;
   }
+
+  
